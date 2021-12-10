@@ -1,0 +1,2 @@
+Función a ejecutar(tarea 10/10):
+getFrame
